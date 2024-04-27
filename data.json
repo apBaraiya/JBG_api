@@ -1,0 +1,111 @@
+[
+    {
+        "id": 1,
+        "img": "../img/location/rajkot.jpg",
+        "title": "Rajkot (Main Branch)",
+        "desc": "Shop No. 7/8, Shiv Ashish Complex, Opp. Mahila College, Above Under Bridge, Kalawad Road, Rajkot, Gujarat - 360005.",
+        "navbtn": {
+            "map": "https://g.page/jay-bhavani-gola?share",
+            "Nbtn": "Navigation"
+        },
+        "contactbtn": {
+            "isbtnTwo": false,
+            "FirstNumber": 9727474574,
+            "Cbtn": "Contact Us"
+        }
+    },
+    {
+        "id": 2,
+        "img": "../img/location/surat.jpeg",
+        "title": "surat",
+        "desc": "Shop no. 5/6, Suryoday Complex, Near D-mart, Kalpana Chavla Rd, Adajan, Surat, Gujarat 395009.",
+        "navbtn": {
+            "map": "https://goo.gl/maps/AXq117hirmzNjjY6A",
+            "Nbtn": "Navigation"
+        },
+        "contactbtn": {
+            "isbtnTwo": true,
+            "FirstNumber": 9558974574,
+            "SecondNumber": 9879074574,
+            "Cbtn": "Contact Us"
+        }
+    },
+    {
+        "id": 3,
+        "img": "../img/location/surat2.jpg",
+        "title": "surat",
+        "desc": "Shop No.47, Avalon The Commercial Hub , Amba Talavadi, Opp. Ankur School, Nr. P Samaj Wadi, Katar Gam, Surat-39005.",
+        "navbtn": {
+            "map": "https://maps.app.goo.gl/RWd7Kapf5tTUt7kM6?g_st=iwb",
+            "Nbtn": "Navigation"
+        },
+        "contactbtn": {
+            "isbtnTwo": false,
+            "FirstNumber": 9586274574,
+            "Cbtn": "Contact Us"
+        }
+    },
+    {
+        "id": 4,
+        "img": "../img/location/Ahmedabad shop.jpg",
+        "title": "Ahmedabad",
+        "desc": " Frizbee, E-4 opp. Tea Post, Sindhu Bhavan Road, Ahmedabad.",
+        "navbtn": {
+            "map": "https://g.page/jay-bhavani-dryfrut-dish-gola?share",
+            "Nbtn": "Navigation"
+        },
+        "contactbtn": {
+            "isbtnTwo": true,
+            "FirstNumber": 7016601001,
+            "SecondNumber": 9723674574,
+            "Cbtn": "Contact Us"
+        }
+    },
+    {
+        "id": 5,
+        "img": "../img/location/vrajvihar.jpeg",
+        "title": "Ahmedabad",
+        "desc": "Shop 9, 6, Prernatirth Derasar Rd, Vraj Vihar, Jodhpur Village, Ahmedabad, Gujarat 380015.",
+        "navbtn": {
+            "map": "https://goo.gl/maps/HvpM1ayHoTUvvtMeA",
+            "Nbtn": "Navigation"
+        },
+        "contactbtn": {
+            "isbtnTwo": true,
+            "FirstNumber": 9723674574,
+            "SecondNumber": 7016601001,
+            "Cbtn": "Contact Us"
+        }
+    },
+    {
+        "id": 6,
+        "img": "../img/location/ahm2.jpeg",
+        "title": "Ahmedabad",
+        "desc": "Shivam Complex, Science City Rd, Sola, Ahmedabad, Gujarat 380060.",
+        "navbtn": {
+            "map": "https://goo.gl/maps/eGvXcHrNCrzb2LcH9",
+            "Nbtn": "Navigation"
+        },
+        "contactbtn": {
+            "isbtnTwo": true,
+            "FirstNumber": 9913674574,
+            "SecondNumber": 9722334422,
+            "Cbtn": "Contact Us"
+        }
+    },
+    {
+        "id": 7,
+        "img": "../img/location/morbi.jpeg",
+        "title": "Morbi",
+        "desc": "Ravapar Rd, Bombay Complex, Near Nilkath Vidhyalaya, Morbi, Gujarat 363641.",
+        "navbtn": {
+            "map": "https://goo.gl/maps/82aHFvSxw1tc8MF87",
+            "Nbtn": "Navigation"
+        },
+        "contactbtn": {
+            "isbtnTwo": false,
+            "FirstNumber": 9725774574,
+            "Cbtn": "Contact Us"
+        }
+    }
+]
