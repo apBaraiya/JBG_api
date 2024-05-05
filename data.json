@@ -1,111 +1,217 @@
 [
-    {
-        "id": 1,
-        "img": "../img/location/rajkot.jpg",
-        "title": "Rajkot (Main Branch)",
-        "desc": "Shop No. 7/8, Shiv Ashish Complex, Opp. Mahila College, Above Under Bridge, Kalawad Road, Rajkot, Gujarat - 360005.",
-        "navbtn": {
-            "map": "https://g.page/jay-bhavani-gola?share",
-            "Nbtn": "Navigation"
-        },
-        "contactbtn": {
-            "isbtnTwo": false,
-            "FirstNumber": 9727474574,
-            "Cbtn": "Contact Us"
-        }
+  {
+    "id": 1,
+    "img": "../img/location/rajkot.jpg",
+    "title": "Rajkot (Main Branch)",
+    "desc": "Shop No. 7/8, Shiv Ashish Complex, Opp. Mahila College, Above Under Bridge, Kalawad Road, Rajkot, Gujarat - 360005.",
+    "navbtn": {
+      "map": "https://g.page/jay-bhavani-gola?share",
+      "Nbtn": "Navigation"
     },
-    {
-        "id": 2,
-        "img": "../img/location/surat.jpeg",
-        "title": "surat",
-        "desc": "Shop no. 5/6, Suryoday Complex, Near D-mart, Kalpana Chavla Rd, Adajan, Surat, Gujarat 395009.",
-        "navbtn": {
-            "map": "https://goo.gl/maps/AXq117hirmzNjjY6A",
-            "Nbtn": "Navigation"
-        },
-        "contactbtn": {
-            "isbtnTwo": true,
-            "FirstNumber": 9558974574,
-            "SecondNumber": 9879074574,
-            "Cbtn": "Contact Us"
-        }
-    },
-    {
-        "id": 3,
-        "img": "../img/location/surat2.jpg",
-        "title": "surat",
-        "desc": "Shop No.47, Avalon The Commercial Hub , Amba Talavadi, Opp. Ankur School, Nr. P Samaj Wadi, Katar Gam, Surat-39005.",
-        "navbtn": {
-            "map": "https://maps.app.goo.gl/RWd7Kapf5tTUt7kM6?g_st=iwb",
-            "Nbtn": "Navigation"
-        },
-        "contactbtn": {
-            "isbtnTwo": false,
-            "FirstNumber": 9586274574,
-            "Cbtn": "Contact Us"
-        }
-    },
-    {
-        "id": 4,
-        "img": "../img/location/Ahmedabad shop.jpg",
-        "title": "Ahmedabad",
-        "desc": " Frizbee, E-4 opp. Tea Post, Sindhu Bhavan Road, Ahmedabad.",
-        "navbtn": {
-            "map": "https://g.page/jay-bhavani-dryfrut-dish-gola?share",
-            "Nbtn": "Navigation"
-        },
-        "contactbtn": {
-            "isbtnTwo": true,
-            "FirstNumber": 7016601001,
-            "SecondNumber": 9723674574,
-            "Cbtn": "Contact Us"
-        }
-    },
-    {
-        "id": 5,
-        "img": "../img/location/vrajvihar.jpeg",
-        "title": "Ahmedabad",
-        "desc": "Shop 9, 6, Prernatirth Derasar Rd, Vraj Vihar, Jodhpur Village, Ahmedabad, Gujarat 380015.",
-        "navbtn": {
-            "map": "https://goo.gl/maps/HvpM1ayHoTUvvtMeA",
-            "Nbtn": "Navigation"
-        },
-        "contactbtn": {
-            "isbtnTwo": true,
-            "FirstNumber": 9723674574,
-            "SecondNumber": 7016601001,
-            "Cbtn": "Contact Us"
-        }
-    },
-    {
-        "id": 6,
-        "img": "../img/location/ahm2.jpeg",
-        "title": "Ahmedabad",
-        "desc": "Shivam Complex, Science City Rd, Sola, Ahmedabad, Gujarat 380060.",
-        "navbtn": {
-            "map": "https://goo.gl/maps/eGvXcHrNCrzb2LcH9",
-            "Nbtn": "Navigation"
-        },
-        "contactbtn": {
-            "isbtnTwo": true,
-            "FirstNumber": 9913674574,
-            "SecondNumber": 9722334422,
-            "Cbtn": "Contact Us"
-        }
-    },
-    {
-        "id": 7,
-        "img": "../img/location/morbi.jpeg",
-        "title": "Morbi",
-        "desc": "Ravapar Rd, Bombay Complex, Near Nilkath Vidhyalaya, Morbi, Gujarat 363641.",
-        "navbtn": {
-            "map": "https://goo.gl/maps/82aHFvSxw1tc8MF87",
-            "Nbtn": "Navigation"
-        },
-        "contactbtn": {
-            "isbtnTwo": false,
-            "FirstNumber": 9725774574,
-            "Cbtn": "Contact Us"
-        }
+    "contactbtn": {
+      "isbtnTwo": false,
+      "FirstNumber": 9727474574,
+      "Cbtn": "Contact Us"
     }
+  },
+  {
+    "id": 2,
+    "img": "../img/location/surat.jpeg",
+    "title": "surat",
+    "desc": "Shop no. 5/6, Suryoday Complex, Near D-mart, Kalpana Chavla Rd, Adajan, Surat, Gujarat 395009.",
+    "navbtn": {
+      "map": "https://goo.gl/maps/AXq117hirmzNjjY6A",
+      "Nbtn": "Navigation"
+    },
+    "contactbtn": {
+      "isbtnTwo": true,
+      "FirstNumber": 9558974574,
+      "SecondNumber": 9879074574,
+      "Cbtn": "Contact Us"
+    }
+  },
+  {
+    "id": 3,
+    "img": "../img/location/surat2.jpg",
+    "title": "surat",
+    "desc": "Shop No.47, Avalon The Commercial Hub , Amba Talavadi, Opp. Ankur School, Nr. P Samaj Wadi, Katar Gam, Surat-39005.",
+    "navbtn": {
+      "map": "https://maps.app.goo.gl/RWd7Kapf5tTUt7kM6?g_st=iwb",
+      "Nbtn": "Navigation"
+    },
+    "contactbtn": {
+      "isbtnTwo": false,
+      "FirstNumber": 9586274574,
+      "Cbtn": "Contact Us"
+    }
+  },
+  {
+    "id": 4,
+    "img": "../img/location/Ahmedabad shop.jpg",
+    "title": "Ahmedabad",
+    "desc": " Frizbee, E-4 opp. Tea Post, Sindhu Bhavan Road, Ahmedabad.",
+    "navbtn": {
+      "map": "https://g.page/jay-bhavani-dryfrut-dish-gola?share",
+      "Nbtn": "Navigation"
+    },
+    "contactbtn": {
+      "isbtnTwo": true,
+      "FirstNumber": 7016601001,
+      "SecondNumber": 9723674574,
+      "Cbtn": "Contact Us"
+    }
+  },
+  {
+    "id": 5,
+    "img": "../img/location/vrajvihar.jpeg",
+    "title": "Ahmedabad",
+    "desc": "Shop 9, 6, Prernatirth Derasar Rd, Vraj Vihar, Jodhpur Village, Ahmedabad, Gujarat 380015.",
+    "navbtn": {
+      "map": "https://goo.gl/maps/HvpM1ayHoTUvvtMeA",
+      "Nbtn": "Navigation"
+    },
+    "contactbtn": {
+      "isbtnTwo": true,
+      "FirstNumber": 9723674574,
+      "SecondNumber": 7016601001,
+      "Cbtn": "Contact Us"
+    }
+  },
+  {
+    "id": 6,
+    "img": "../img/location/ahm2.jpeg",
+    "title": "Ahmedabad",
+    "desc": "Shivam Complex, Science City Rd, Sola, Ahmedabad, Gujarat 380060.",
+    "navbtn": {
+      "map": "https://goo.gl/maps/eGvXcHrNCrzb2LcH9",
+      "Nbtn": "Navigation"
+    },
+    "contactbtn": {
+      "isbtnTwo": true,
+      "FirstNumber": 9913674574,
+      "SecondNumber": 9722334422,
+      "Cbtn": "Contact Us"
+    }
+  },
+  {
+    "id": 7,
+    "img": "../img/location/morbi.jpeg",
+    "title": "Morbi",
+    "desc": "Ravapar Rd, Bombay Complex, Near Nilkath Vidhyalaya, Morbi, Gujarat 363641.",
+    "navbtn": {
+      "map": "https://goo.gl/maps/82aHFvSxw1tc8MF87",
+      "Nbtn": "Navigation"
+    },
+    "contactbtn": {
+      "isbtnTwo": false,
+      "FirstNumber": 9725774574,
+      "Cbtn": "Contact Us"
+    }
+  },
+  {
+    "id": 8,
+    "gola_img": "../img/gola/blueberry_golo.jpeg",
+    "gola_name": "Blueberry"
+  },
+  {
+    "id": 9,
+    "gola_img": "../img/gola/Colaram_golo.jpeg",
+    "gola_name": "Colaram"
+  },
+  {
+    "id": 10,
+    "gola_img": "../img/gola/falsha_golo.jpeg",
+    "gola_name": "falsha"
+  },
+  {
+    "id": 11,
+    "gola_img": "../img/gola/blueberry-2_golo.jpeg",
+    "gola_name": "Blueberry"
+  },
+  {
+    "id": 12,
+    "gola_img": "../img/gola/Rajwadi_golo.jpeg",
+    "gola_name": "Rajwadi"
+  },
+  {
+    "id": 13,
+    "gola_img": "../img/gola/Cranberry_golo.jpeg",
+    "gola_name": "Cranberry"
+  },
+  {
+    "id": 14,
+    "gola_img": "../img/gola/chocobar_gola.jpg",
+    "gola_name": "Chocobar Gola"
+  },
+  {
+    "id": 15,
+    "gola_img": "../img/gola/choco-ball_gola.jpg",
+    "gola_name": "Choco Ball Gola"
+  },
+  {
+    "id": 16,
+    "gola_img": "../img/gola/choco-sundae_golo.jpg",
+    "gola_name": "Choco Sundae Gola"
+  },
+  {
+    "id": 17,
+    "gola_img": "../img/gola/cool-brownie_gola.jpg",
+    "gola_name": "Cool Brownie Gola"
+  },
+  {
+    "id": 18,
+    "gola_img": "../img/gola/ferreor_rocher_golo.jpg",
+    "gola_name": "Ferrero Rocher Gola"
+  },
+  {
+    "id": 19,
+    "gola_img": "../img/gola/kachikeri&rose_golo.jpg.",
+    "gola_name": "Plain Kachikeri And Rose Gola"
+  },
+  {
+    "id": 20,
+    "gola_img": "../img/gola/kachikeri_golo.jpg",
+    "gola_name": "Plain Kachikeri Gola"
+  },
+  {
+    "id": 21,
+    "gola_img": "../img/gola/krackjack_golo.jpg",
+    "gola_name": "Krackjack Gola"
+  },
+  {
+    "id": 22,
+    "gola_img": "../img/gola/mava-malay-cadberry_golo.jpg",
+    "gola_name": "Dry Fruit Cream Mava Malai Canberry Gola"
+  },
+  {
+    "id": 23,
+    "gola_img": "../img/gola/orange_golo.jpg",
+    "gola_name": "Plain Orange Gola"
+  },
+  {
+    "id": 24,
+    "gola_img": "../img/gola/orio_golo.jpg",
+    "gola_name": "Orio Gola"
+  },
+  {
+    "id": 25,
+    "gola_img": "../img/gola/pineapple_gola.jpg",
+    "gola_name": "Plain Pineapple Gola"
+  },
+  {
+    "id": 26,
+    "gola_img": "../img/gola/rose-petals_golo.jpg",
+    "gola_name": "Cream Mava Malay Rose Petals Gola"
+  },
+  {
+    "id": 27,
+    "gola_img": "../img/gola/strawberry_golo.jpg",
+    "gola_name": "Plain Strawberry Gola"
+  },
+  {
+    "id": 28,
+    "gola_img": "../img/gola/tiranga_golo.jpg",
+    "gola_name": "Plain Tirnaga Gola"
+  }
+  
 ]
